@@ -44,6 +44,7 @@ top: 450px;
 }
 
 .sapling {
+display: inline-block;
 margin-top: 100px;
 width:50%;
 }
